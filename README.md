@@ -12,7 +12,8 @@ and sources of delay in the transition from data collection to data analysis. Th
 number of collaborators and the number one source of variation in the speed to results is the status of the data
 when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.
 
-My strong feeling is that statisticians should be able to handle the data in whatever state they arrive. It is important
+My strong feeling is that statisticians should be able to handle the data in whatever state they arrive. The direct connection with 
+the source tends to be an essential aspect of understanding what can be inferred from the data. It is important
 to see the raw data, understand the steps in the processing pipeline, and be able to incorporate hidden sources of
 variability in one's data analysis. On the other hand, for many data types, the processing steps are well documented
 and standardized. So the work of converting the data from raw form to directly analyzable form can be performed 
@@ -51,7 +52,7 @@ You know the raw data are in the right format if you:
 1. You did not remove any data from the data set
 1. You did not summarize the data in any way
 
-If you made any modifications of the raw data it is not the raw form of the data. Reporting modified data
+If you made any modifications on the raw data it is not the raw form of the data. Reporting modified data
 as raw data is a very common way to slow down the analysis process, since the analyst will often have to do a
 forensic study of your data to figure out why the raw data looks weird. (Also imagine what would happen if new data arrived?)
 
